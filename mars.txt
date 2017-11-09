@@ -1,3 +1,4 @@
 red planet, cold
 also red
 close to earth
+moons of mars see moonOfMars.txt
